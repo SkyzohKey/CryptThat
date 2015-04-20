@@ -6,7 +6,7 @@ Here is a basic usage of this class.
 **Don't forget to change the 3 private keys of 64 char, in order to maintain a strong security !**  
 You can use this website to generate unique strings [TextMechanic](http://textmechanic.com/Random-String-Generator.html)  
 
-![Sample configuration](http://i.imgur.com/i09L487.png)
+![Sample configuration](http://i.imgur.com/nViGKMm.png)
 
 ```php
 require_once("CryptThat.class.php");
