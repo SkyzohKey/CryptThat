@@ -9,7 +9,7 @@ You can use this website to generate unique strings [TextMechanic](http://textme
 ![Sample configuration](http://i.imgur.com/nViGKMm.png)
 
 ```php
-require_once("CryptThat.class.php");
+require_once("classes/CryptThat.class.php");
     
 // Initialize the 3 private keys.
 $params = array(
