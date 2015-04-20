@@ -26,7 +26,7 @@ class CryptThat
     return $this->lastHash;
   }
 	
-  function lastHash()
+  function getLastHash()
   {
     return $this->lastHash;
   }
