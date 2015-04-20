@@ -4,7 +4,9 @@ CryptThat is a short class which permit to make text hashes using 3 private keys
 ## Usage
 Here is a basic usage of this class.  
 **Don't forget to change the 3 private keys of 64 char, in order to maintain a strong security !**  
-You can use this website to generate unique strings [Random.org](https://www.random.org/strings/)  
+You can use this website to generate unique strings [TextMechanic](http://textmechanic.com/Random-String-Generator.html)  
+
+![Sample configuration](http://i.imgur.com/i09L487.png)
 
 ```php
 require_once("CryptThat.class.php");
