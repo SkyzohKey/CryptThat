@@ -12,7 +12,8 @@ $crypter = new CryptThat($params);
 $textToHash = "I'm a super text.";
 
 // Crypt the pass using the lib'.
-$superPassword = $crypter->getHash($textToHash);
+$hash = $crypter->getHash($textToHash);
+echo("Hashed text: " . $hash);
 
-// Print the hash.
-echo("Password hash: " . $superPassword);
+$last = $crypter->getLastHash();
+echo("Last hashed text: " . $last);
