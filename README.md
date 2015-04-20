@@ -3,9 +3,7 @@ CryptThat is a short class which permit to make text hashes using 3 private keys
 
 ## Usage
 Here is a basic usage of this class. 
-
 **Don't forget to change the 3 private keys, in order to maintain a strong security !**
-
 You can use this website to generate unique strings [Random.org](https://www.random.org/strings/)
 
 ```php
