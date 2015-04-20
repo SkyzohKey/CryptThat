@@ -1,6 +1,6 @@
 <?php
 // Require the lib' to work.
-require_once("CryptThat.class.php");
+require_once("classes/CryptThat.class.php");
 
 // Initialize the 3 key that the lib' will use.
 $params = array(
