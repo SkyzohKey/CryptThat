@@ -13,7 +13,8 @@ require_once("classes/CryptThat.class.php");
 
 /**
  * Initialize the 3 PRIVATE keys that the lib' will use.
- * NOTE: You should never give these key to someone, keep them in a different file (config.php for example)
+ * NOTE: You should never give these key to someone,
+ *       keep them in a different file (config.php for example)
  */
 $keys = array(
   "34b1dac21df43b17d23014d42d5c25f2195170a9f101cf137b3d5975af29ec0c",
